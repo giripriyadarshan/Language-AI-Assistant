@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: 'Issue Template - LexiLearn '
 about: Create a report to help us improve
 title: ''
 labels: ''
@@ -17,7 +17,7 @@ title: "[SHORT DESCRIPTION OF ISSUE/FEATURE]"
 
 # Prerequisites
 
-Please answer the following questions for yourself before submitting an issue. **YOU MAY DELETE THIS PREREQUISITES SECTION.**
+Please answer the following questions for yourself before submitting an issue. 
 
 - [ ] I am running the latest version
 - [ ] I checked the documentation and found no answer
